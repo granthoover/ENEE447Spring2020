@@ -6,7 +6,8 @@
 - [ARMv8 Peripherals Manual (Page 172)](https://myelms.umd.edu/courses/1277187/files/folder/Lab%20Files%20Spring%202020/ARMv8%20Documentation?preview=55360007)
 - [Bare metal programming](https://github.com/dwelch67/raspberrypi/tree/master/baremetal)
 - [How Raspberry Pi boots](https://raspberrypi.stackexchange.com/questions/10442/what-is-the-boot-sequence)
-- [Connecting an SD card to an Ubuntu VM](https://www.htpcguides.com/how-to-use-sd-card-reader-in-vmplayer-and-vmworkstation/)
+- [Connecting an SD card to an Ubuntu VM](https://pubs.vmware.com/workstation-11/index.jsp?topic=%2Fcom.vmware.ws.using.doc%2FGUID-AB5C80FE-9B8A-4899-8186-3DB8201B1758.html)
+- [Connecting an SD card to an Ubuntu VM 2 (Look at the answer with 68 upvotes)](https://askubuntu.com/questions/29284/how-do-i-mount-shared-folders-in-ubuntu-using-vmware-tools)
 
 ## Environment Setup
 - See p0.pdf for cross-compiler setup instructions
