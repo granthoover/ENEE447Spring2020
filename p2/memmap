@@ -6,7 +6,10 @@ MEMORY
 
 SECTIONS
 {
-    .text : { *(.text*) } > ram
+    .text : { 
+        1_boot.o;
+        *(.text*); 
+    } > ram
     .bss : { *(.bss*) } > ram
 }
 
